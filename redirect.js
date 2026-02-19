@@ -1,10 +1,10 @@
 const newPortfolioURL = "https://abhishek-yadav-zeta.vercel.app/";
 
-let seconds = 5;
+let seconds = 10;
 const countdownElement = document.getElementById("countdown");
 const progressBar = document.getElementById("progressBar");
 
-const totalTime = 5;
+const totalTime = 10;
 let elapsed = 0;
 
 const timer = setInterval(() => {
